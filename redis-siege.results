@@ -1,0 +1,13 @@
+{	"transactions":			        1000,
+	"availability":			      100.00,
+	"elapsed_time":			        3.63,
+	"data_transferred":		        0.08,
+	"response_time":		        0.04,
+	"transaction_rate":		      275.48,
+	"throughput":			        0.02,
+	"concurrency":			        9.79,
+	"successful_transactions":	        1000,
+	"failed_transactions":		           0,
+	"longest_transaction":		        0.50,
+	"shortest_transaction":		        0.00
+}
